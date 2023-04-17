@@ -26,9 +26,9 @@ What is hyperplane in ML?
 Hyperplanes are decision boundaries that help classify the data points. Data points falling on either side of the hyperplane can be attributed to different classes
 
 ## Work Flow
-1- Diabetes Data 
-2- Data pre Processing 
-3- Training and Testing
-4- Feed to The Support Vector Machine Model
-5- Give a New Dataset to the Trained Machine 
-6- Predict Whether The Patient Diabetic or Not
+1. Diabetes Data 
+2. Data pre Processing 
+3. Training and Testing
+4. Feed to The Support Vector Machine Model
+5. Give a New Dataset to the Trained Machine 
+6. Predict Whether The Patient Diabetic or Not
